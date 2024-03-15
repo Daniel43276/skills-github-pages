@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog my name is Daniel. 
+title: Welcome to my blog; my name is Daniel. 
 ---
 
